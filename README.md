@@ -1,2 +1,2 @@
-# HigherOrLowerGame
-A fun game that compares 2 things and the player, guessing whether it is higher or lower than the other.
+Days# HigherOrLowerGame
+A fun game that compares 2 things and the player, guesses whether one is higher or lower than the other.
